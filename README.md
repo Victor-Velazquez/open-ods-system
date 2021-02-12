@@ -1,4 +1,4 @@
-# open-ods-system
+# Open ODS System
 Open ODS System es una herramienta de control estrategico para alinear los Objetivos de Desarrollo sostenible de la ONU con los Objetivos de un municipio.
 Copyright (C) 2019 Víctor Daniel Velázquez Ramos
 
